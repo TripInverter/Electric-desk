@@ -6,6 +6,7 @@ const int motor1_IN2 = 3;   // IN2 Pin für Motor 1
 const int motor2_IN3 = 4;   // IN3 Pin für Motor 2
 const int motor2_IN4 = 5;   // IN4 Pin für Motor 2
 /*
+//Nun die Sensoren einbinden 
 const int sensor1 = 8;  // Pins für Sensoren 1-4
 const int sensor2 = 9;  //
 const int sensor3 = 10;  // 
